@@ -1,0 +1,19 @@
+#frame {
+    padding: 15px;
+    margin: 15px;
+    background: url("https://placehold.co/100x100/FFFFFF/EFEFEF/png?text=49311");
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  #frame > button {
+    margin: 0 10px;
+
+  }
+  
+  .red {
+    color: red;
+  }
+  
+  .green {
+    color: green;
+  }

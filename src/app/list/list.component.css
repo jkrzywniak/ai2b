@@ -1,0 +1,15 @@
+#list {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 15px;
+    margin: 15px;
+  }
+  
+.even {
+    background-color: lightgray;
+  }
+
+button{
+    background-color:darkseagreen;
+    margin: 0 10px;
+    border-radius: 10%;
+}
