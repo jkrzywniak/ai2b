@@ -1,0 +1,15 @@
+header, footer{
+    text-align: center;
+}
+
+footer{
+    padding: 0.5em 1em;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+header nav {
+    display: flex;
+    gap: 1em;
+  }
